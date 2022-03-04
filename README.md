@@ -1,4 +1,7 @@
-### Hi there 👋 My name is Lindsey Biggers.
+### Hi there <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px"> My name is Lindsey Biggers.
+
+---
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lindzenlabs)
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lfbiggers)
